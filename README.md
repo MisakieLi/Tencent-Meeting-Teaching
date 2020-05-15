@@ -1,2 +1,7 @@
-# Tencent-Meeting-Teaching
-This is a repo for the creation of online teaching guide via Tencent Meeting.
+# 腾讯会议教学指南
+# 关于项目
+本项目是j技术协作工作坊的课程作业....
+
+##小组成员
+-MemberA
+-MemberB
